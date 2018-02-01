@@ -9,7 +9,7 @@ public static int mul()
 boolean a=false;
 boolean c=true;
 int b=2520;
-while(!a)
+while(a=!a)
 {
 b=b+2520;
 for (int i=1;i<=20;i++)
