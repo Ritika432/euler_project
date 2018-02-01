@@ -4,7 +4,7 @@ public static void main (String []srgs)
 {
 int a=0,b=1,bo=4000000,s=0,i;
 boolean a=false;
-while (!=a)
+while (a=!a)
 {
 i=a+b;
 a=b;
