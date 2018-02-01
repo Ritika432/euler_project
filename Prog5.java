@@ -2,6 +2,7 @@ class Prog5{
 public static void main (String[]args)
 {
 mul();
+  System.out.println(b);
 }
 public static int mul()
 {
@@ -13,7 +14,7 @@ while(!a)
 b=b+2520;
 for (int i=1;i<=20;i++)
 {
-if (i%j!=0)
+if (b%i!=0)
 c=false;
 break;
 }if(c)
