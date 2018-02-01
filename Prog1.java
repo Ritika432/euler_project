@@ -13,5 +13,5 @@ if (i%3==0||i%5==0)
 {
 s=s+i;
 }}
-return sum;
+return s;
 }
