@@ -11,6 +11,7 @@ int b=2520;
 while(a=!a)
 {
 b=b+2520;
+  c=true;
 for (int i=11;i<=20;i++)
 {
 if (b%i!=0)
